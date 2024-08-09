@@ -24,8 +24,7 @@ The **Fruit Information Application** is a .NET 8-based web API that interacts w
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/FruitInfoApp.git
-cd FruitInfoApp
+git clone [https://github.com/your-repo/FruitInfoApp.git](https://github.com/tamarastanikevska999/fruit-system.git)
 ```
 
 ### 2. Install Dependencies
